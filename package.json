@@ -1,0 +1,29 @@
+{
+  "name": "forms-in-nodejs",
+  "version": "1.0.0",
+  "description": "use forms in Node.js",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.13.4",
+    "formidable": "^1.0.17"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "\"echo \\\"Error: no test specified\\\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abbassoftware/forms-in-nodejsgit.git"
+  },
+  "keywords": [
+    "form"
+  ],
+  "author": "Abbas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abbassoftware/forms-in-nodejsgit/issues"
+  },
+  "homepage": "https://github.com/abbassoftware/forms-in-nodejsgit#readme"
+}
+
